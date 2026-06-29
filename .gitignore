@@ -32,3 +32,12 @@ repomix-output.*
 # OS
 .DS_Store
 blueprint-dryrun*/
+
+# Node.js / Next.js
+node_modules/
+.next/
+*.tsbuildinfo
+next-env.d.ts
+
+# Build output
+out/
